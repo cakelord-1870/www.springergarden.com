@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/planters.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-08-20T19:25:28-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/5306437927072</id>
+    <published>2021-08-20T19:25:28-04:00</published>
+    <updated>2021-08-20T19:25:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/small-cuite-white"/>
+    <title>Small Cutie - Milk (Set of 4)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/14.jpg?v=1629502061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Dull Polish Facade</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>6.5cmL, 5.5cmW, 6.8cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5306437927072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>X051110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711066755232</id>
+    <published>2021-07-26T10:20:23-04:00</published>
+    <updated>2021-07-26T10:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/copy-of-born-egg-silver"/>
+    <title>Born Egg Silver</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/borneggsilver.jpg?v=1621541506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>2.5" - 4" H, 4.5" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711066755232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711061577888</id>
+    <published>2021-07-26T10:20:21-04:00</published>
+    <updated>2021-07-26T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/born-egg-golden"/>
+    <title>Born Egg Golden</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/bornegggolden.jpg?v=1621541241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>2.5" - 4" H, 4.5" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711061577888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>J361110.08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711142547616</id>
+    <published>2021-07-26T10:18:08-04:00</published>
+    <updated>2021-07-26T10:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-with-copper-stander"/>
+    <title>Planter with Copper Stander</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/planterwithstander.jpg?v=1621545192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>5" + 5" H, 4.5" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711142547616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>X401110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711098212512</id>
+    <published>2021-07-26T10:18:07-04:00</published>
+    <updated>2021-07-26T10:18:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/essential-colours-plain"/>
+    <title>Essential Colours Plain (Set of 3)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/essensialcoloursplain.jpg?v=1621543093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7cm H, 7cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711098212512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>J372130.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711090872480</id>
+    <published>2021-07-26T10:18:06-04:00</published>
+    <updated>2021-07-26T10:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/essential-colours-curve"/>
+    <title>Essential Colours Curve (Set of 3)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/essensialcolourscurve.jpg?v=1621542823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7cm H, 7cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711090872480</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>J371130.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711085400224</id>
+    <published>2021-07-26T10:18:04-04:00</published>
+    <updated>2021-07-26T10:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/copy-of-marble-pattern-planter-with-saucer-square"/>
+    <title>Marble Pattern Planter with Saucer Square (Set of 4)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/marblepatternplanterwithsauser2.jpg?v=1621542523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7.5cm H, 5.5cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711085400224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>X382140.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711169351840</id>
+    <published>2021-05-31T16:14:34-04:00</published>
+    <updated>2021-05-31T16:14:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/rainbow-egg"/>
+    <title>Rainbow Egg</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/RainbowEgg.jpg?v=1621546304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>Without drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>3.5"H, 2.5<span data-mce-fragment="1">"</span>diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter Under 4&quot;</s:tag>
+    <s:tag>Without Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711169351840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711135731872</id>
+    <published>2021-05-31T12:05:50-04:00</published>
+    <updated>2021-05-31T12:05:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/marble-pot-3"/>
+    <title>Marble Texture Pot 3</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Marble3.jpg?v=1621544867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>3" H, 3.25" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711135731872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>X393110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711134683296</id>
+    <published>2021-05-31T12:05:49-04:00</published>
+    <updated>2021-05-31T12:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/marble-pot-2"/>
+    <title>Marble Texture Pot 2</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Marble2.jpg?v=1621544824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>4.75" H, 4" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711134683296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>X392110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6711123312800</id>
+    <published>2021-05-31T12:05:48-04:00</published>
+    <updated>2021-05-31T12:05:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/marble-pot-1"/>
+    <title>Marble Texture Pot 1</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Marble1.jpg?v=1621544774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>4.25" H, 4.75" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6711123312800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>X391110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4766695194669</id>
+    <published>2021-05-19T16:38:35-04:00</published>
+    <updated>2021-05-19T16:38:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/old-fashion-no-2"/>
+    <title>Old Fashion</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/34_5d9c7979-5b9a-428a-8b84-11d5ce48f4a8.jpg?v=1629393360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9cmL, 9cmW, 11cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4766695194669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6709136130208</id>
+    <published>2021-05-19T12:24:58-04:00</published>
+    <updated>2021-05-19T12:24:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glazed-white-pots-set-of-3"/>
+    <title>Glazed White Sky (Set of 3)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/16_508a1130-bd4a-4fa2-851a-8a6d61b4b911.jpg?v=1621441516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8cm H, 10cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6709136130208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6709132525728</id>
+    <published>2021-05-19T12:23:35-04:00</published>
+    <updated>2021-05-19T12:23:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glazed-small-pots-set-of-6"/>
+    <title>Glazed Small Pots (Set of 6)</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/18_467bd21c-5e23-472e-8ade-5500f9ee8337.jpg?v=1621441428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7cm H, 7cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6709132525728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696139292832</id>
+    <published>2021-05-12T14:18:46-04:00</published>
+    <updated>2021-05-12T14:18:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/egpytian-style-3"/>
+    <title>Egpytian Style 3</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/EgpytianStyle3.jpg?v=1620843536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>10cm H, 7cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696139292832</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696138277024</id>
+    <published>2021-05-12T14:17:46-04:00</published>
+    <updated>2021-05-12T14:17:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/egpytian-style-2"/>
+    <title>Egpytian Style 2</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/EgpytianStyle2.jpg?v=1620843477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8cm H, 9cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696138277024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696136900768</id>
+    <published>2021-05-12T14:16:50-04:00</published>
+    <updated>2021-05-12T14:16:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/egpytian-style-1"/>
+    <title>Egpytian Style 1</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/EgpytianStyle1.jpg?v=1620843417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>11cm H, 8cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696136900768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696121532576</id>
+    <published>2021-05-12T14:07:17-04:00</published>
+    <updated>2021-05-12T14:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/plum-pot-3"/>
+    <title>Plum Blossom Pot 3</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PlumPot3.jpg?v=1620842856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8.5cm H, 8cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696121532576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696120746144</id>
+    <published>2021-05-12T14:06:43-04:00</published>
+    <updated>2021-05-12T14:06:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/plum-pot-2"/>
+    <title>Plum Blossom Pot 2</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PlumPot2.jpg?v=1620842815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>11cm H, 7cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696120746144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696119468192</id>
+    <published>2021-05-12T14:05:38-04:00</published>
+    <updated>2021-05-12T14:05:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/plum-pot-1"/>
+    <title>Plum Blossom Pot 1</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PlumPot1.jpg?v=1620842776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9.5cm H, 8cm diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696119468192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696110620832</id>
+    <published>2021-05-12T13:54:13-04:00</published>
+    <updated>2021-05-12T13:54:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/gang-4"/>
+    <title>Gang 4</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Gang4.jpg?v=1620842060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>3"H, 3.25"diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696110620832</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6696107147424</id>
+    <published>2021-05-12T13:49:45-04:00</published>
+    <updated>2021-05-12T13:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/gang-3"/>
+    <title>Gang 3</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Gang3.jpg?v=1620842002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>5"H, 5.5"diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6696107147424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5485154009248</id>
+    <published>2021-04-27T13:44:25-04:00</published>
+    <updated>2021-04-27T13:44:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/love-tree"/>
+    <title>Love Tree</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/7_01efe2b1-8182-44c2-9671-d5eb7a6d80bb.jpg?v=1620852712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>4.75"H, 3"diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter Under 4&quot;</s:tag>
+    <s:tag>Without Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5485154009248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5628396372128</id>
+    <published>2021-04-22T11:17:01-04:00</published>
+    <updated>2021-04-22T11:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/yaya-basket"/>
+    <title>Yaya Basket</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/WechatIMG87.jpg?v=1619104685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            20.99 - 29.99
+            <a href="https://www.springergarden.com/products/yaya-basket">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Seagrass</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>13‘’H, 10.5‘’diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter Over 8&quot;</s:tag>
+    <s:tag>Without Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5628396372128</id>
+      <title>White-Natural</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5628396372128</id>
+      <title>Natural</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5265224204448</id>
+    <published>2021-04-20T18:34:21-04:00</published>
+    <updated>2021-04-20T18:34:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/water-drop-no-1"/>
+    <title>Water Drop No.5</title>
+    <s:type>Pot</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/29_04ee7187-8ad4-43a0-8f64-ec96c8c1eb91.jpg?v=1629391779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Pot<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+<li>With drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>11.5cmL, 11.5cmW, 8.7cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>With Drainage Hole</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5265224204448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>J135110.00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/driedflowers.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-04-12T11:23:16-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6641003298976</id>
+    <published>2021-04-12T11:23:16-04:00</published>
+    <updated>2021-04-12T11:23:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/nature-pampas-grass"/>
+    <title>Nature Pampas Grass</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a7.jpg?v=1618241146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>Fluffy dried pampas grass in 45". Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6641003298976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6640997531808</id>
+    <published>2021-04-12T11:20:17-04:00</published>
+    <updated>2021-04-12T11:20:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/soft-mauve-phalaris"/>
+    <title>Soft Mauve Phalaris</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a5.jpg?v=1618240837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>The graceful grass in the shape of a pompon answers to the name of phalaris. Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6640997531808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6640979443872</id>
+    <published>2021-04-12T11:11:03-04:00</published>
+    <updated>2021-04-12T11:11:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/white-phalaris"/>
+    <title>White Phalaris</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a4_cae39191-1432-4267-9f60-87ff9da6129b.jpg?v=1618240338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>The graceful grass in the shape of a pompon answers to the name of phalaris. Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6640979443872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6640973283488</id>
+    <published>2021-04-12T11:07:16-04:00</published>
+    <updated>2021-04-12T11:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/brown-bunny-tail-grasses"/>
+    <title>Brown Bunny Tail Grasses</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a6.jpg?v=1618240057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>Adorable dried flowers, sweet, and fluffy. Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6640973283488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6640971677856</id>
+    <published>2021-04-12T11:06:10-04:00</published>
+    <updated>2021-04-12T11:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/white-bunny-tail-grasses"/>
+    <title>White Bunny Tail Grasses</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a2_d4b09d75-f125-4bd2-9846-13cde1c16fc6.jpg?v=1618240018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>Adorable dried flowers, sweet, and fluffy. Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6640971677856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6640941334688</id>
+    <published>2021-04-12T10:46:49-04:00</published>
+    <updated>2021-04-12T10:46:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/mauve-bunny-tail-grasses"/>
+    <title>Mauve Bunny Tail Grasses</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/a3_224bbb57-3326-4099-8e44-859423cde61a.jpg?v=1618241422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<p>Adorable dried flowers, sweet, and fluffy. Display on its own or add to other dried stems to create the floral arrangement. Simply insert into the vase to create your style. </p>
+<p>Dried flowers will last months (even years) if properly cared for. DO NOT add water!<br></p>
+<p>You will get a similar amount of stems shown in the image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6640941334688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5816304631968</id>
+    <published>2020-10-31T12:04:44-04:00</published>
+    <updated>2020-10-31T12:04:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/lavender"/>
+    <title>Lavender</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Lavender_5c617efe-d229-415c-a72f-fd0ecda81ede.jpg?v=1604160463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<span>Lavandula is a genus of 47 known species of flowering plants in the mint family, Lamiaceae. It is native to the Old World and is found in Cape Verde and the Canary Islands, and from Europe across to northern and eastern Africa, the Mediterranean, southwest Asia to southeast India.</span><span> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5816304631968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5816303681696</id>
+    <published>2020-10-31T12:03:07-04:00</published>
+    <updated>2020-10-31T12:03:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/flax-flower-bunch"/>
+    <title>Yellow Flax / Bunch</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/FlaxFlower.jpg?v=1604160264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<span>Aka Linum rigidum, this annual wildflower blooms in late spring with delicate pale yellow flowers. It is a small plant and very hardy as well as drought tolerant; this plant is at home on dry exposed sites. Plant this wildflower in rock gardens and along pathways where it can be enjoyed. Allow the seeds to mature to keep it coming back year after year.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5816303681696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5754452902048</id>
+    <published>2020-10-10T21:38:13-04:00</published>
+    <updated>2020-10-10T21:38:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/waxflower"/>
+    <title>Waxflower / Bunch</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/DrySmallFlower.jpg?v=1602380335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Chamelaucium uncinatum, the Geraldton waxflower, Geraldton wax, is a flowering plant endemic to Western Australia. It is an erect shrub 0.5 to 4m high, bearing white or pink flowers June–November. The name uncinatum means "hooked" in Latin, in reference to the tips of the leaves.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5754452902048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5754171031712</id>
+    <published>2020-10-10T19:12:27-04:00</published>
+    <updated>2020-10-10T19:12:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/pumpkin-cutie"/>
+    <title>Pumpkin / Stem</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PumpkinCutie.jpg?v=1602371555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pumpkin Cutie</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5754171031712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5754169262240</id>
+    <published>2020-10-10T19:11:28-04:00</published>
+    <updated>2020-10-10T19:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/dry-autumn-leaves"/>
+    <title>Dry Oak Leaves / Stem</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/DryAutumnLeaves.jpg?v=1602371497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+If the tree produces acorns, it's an oak. Lobed leaves are leaves that have rounded or pointed knobs extending out from the centerline. While a few oaks do not have lobes, all of the leaves are generally symmetrical around a clear median line. Small, scaly bark.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5754169262240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5754167885984</id>
+    <published>2020-10-10T19:10:47-04:00</published>
+    <updated>2020-10-10T19:10:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/chamomile"/>
+    <title>Everlasting Flowers / Bunch</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Chamomile1.jpg?v=1602371458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*dry cutting</span></p>
+<p><span>The genus Helichrysum consists of an estimated 600 species of flowering plants in the sunflower family. The type species is Helichrysum orientale. The name is derived from the Greek words ἑλίσσω and χρῡσός. It occurs in Africa, Madagascar, Australasia and Eurasia.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5754167885984</id>
+      <title>Orange</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5754167885984</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5663663653024</id>
+    <published>2020-09-20T15:46:13-04:00</published>
+    <updated>2020-09-20T15:46:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cotton-stem"/>
+    <title>Cotton / Stem</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/cotton_c42b3760-4609-4aca-8d63-3116b2f49124.jpg?v=1604159960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<b>Cotton</b><span> is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the </span><b>cotton plants</b><span> of the genus Gossypium in the mallow family Malvaceae. ... The </span><b>plant</b><span> is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, Egypt and India.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5663663653024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5642100179104</id>
+    <published>2020-09-15T21:20:59-04:00</published>
+    <updated>2020-09-15T21:20:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/monstera-deliciosa-leaf-variant"/>
+    <title>Thai Constellation Leaf - Without Node / 5 pieces</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/MonsteraDeliciosaLeafVariant.jpg?v=1600218763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<h1><span style="color: #ff2a00;">*Fresh Cutting only for Local Delivery and Pick-up</span></h1>
+<p><span style="color: #ff2a00;">(It would be 100% turn yellow/dried if we ship it)</span></p>
+<p><span style="color: #ff2a00;"><span>*No node</span></span></p>
+<p><span>Monstera Deliciosa Leaf Variant</span></p>
+<p><span>Price per Leaf</span></p>
+<p><strong>Pre-Order:</strong> We will deliver the product once we have it in-stock</p>
+<p><strong>More details: </strong></p>
+<p><span data-mce-fragment="1"><a href="https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth" data-mce-fragment="1" data-mce-href="https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth">https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5642100179104</id>
+      <title>In Stock</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5642100179104</id>
+      <title>Pre-order</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5568765100192</id>
+    <published>2020-08-30T11:45:05-04:00</published>
+    <updated>2020-08-30T11:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/craspedia-globosa"/>
+    <title>Craspedia Globosa / 4 Stems</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/CraspediaGlobosa_c4f1df2f-6bf6-41c8-8aaa-fd35e77a29d0.jpg?v=1604159985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<h1><span style="color: #ff2a00;">Only for Local Delivery and Pick-up</span></h1>
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<p><b>Craspedia globosa</b><span>, also known as drumstick flower or Billy Buttons, produces a golden-yellow display of spherical flowers that often reach the size of tennis balls. ... Drumstick flowers are grown as perennials in U.S. Department of Agriculture plant hardiness zones 8 through 11, and as annuals elsewhere.</span></p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5568765100192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5568685015200</id>
+    <published>2020-08-30T11:44:59-04:00</published>
+    <updated>2020-08-30T11:44:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/babys-breath"/>
+    <title>Baby&apos;s Breath / 5 Stems</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Baby_sBreath.jpg?v=1600630975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            14.99 - 16.99
+            <a href="https://www.springergarden.com/products/babys-breath">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false">
+<p><span>The most popular filler... Baby's Breath! This classic flower displays many tiny, cloud like blooms covering its branches. Baby's Breath is an ideal filler flower, but can also be used alone to create popular globe shaped centerpieces and arrangements. Wholesale Baby's Breath is offered in both Natural and Tinted varieties.</span></p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5568685015200</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5568685015200</id>
+      <title>Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5568685015200</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5512411185312</id>
+    <published>2020-08-15T15:10:07-04:00</published>
+    <updated>2020-08-15T15:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/monstera-deliciosa-leaf"/>
+    <title>Monstera Deliciosa Leaf</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/MonsteraDeliciosaLeaf_1e2e43fc-0704-4983-b26e-578266825999.jpg?v=1604160577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<p><span style="color: #ff2a00;">* Can't be shipped, only delivery and pick-up</span></p>
+<p><span style="color: #ff2a00;">* No node</span></p>
+<p><span>Price per Leaf</span></p>
+<p><span data-mce-fragment="1">More details</span></p>
+<p><span data-mce-fragment="1"><a data-mce-fragment="1" href="https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth" data-mce-href="https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth">https://www.springergarden.com/blogs/blog/propagating-monstera-without-node-the-truth</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5512411185312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5512370421920</id>
+    <published>2020-08-15T15:10:04-04:00</published>
+    <updated>2020-08-15T15:10:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/eucalyptus"/>
+    <title>Eucalyptus / punch</title>
+    <s:type>Cuttings</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Eucalyptus.jpg?v=1600120908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cuttings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<h1><span style="color: #ff2a00;">Not for Shipping</span></h1>
+<p><span>Eucalyptus is a fast-growing evergreen tree native to Australia. As an ingredient in many products, it is used to reduce symptoms of coughs, colds, and congestion. It also features in creams and ointments aimed at relieving muscle and joint pain.</span></p>
+<p><span>$15 / 5 stems</span></p>
+<p><span>45-60 cm</span></p>
+<p> </p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5512370421920</id>
+      <title>In stock</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5512370421920</id>
+      <title>Pre-sale</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

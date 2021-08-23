@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/diy-kit.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-06-09T16:13:56-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6754250162336</id>
+    <published>2021-06-09T16:13:56-04:00</published>
+    <updated>2021-06-09T16:13:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/korean-succulents-beginner-kit"/>
+    <title>Korean Succulents *Beginner* Kit</title>
+    <s:type>Korean Succulents</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/KS.jpg?v=1623269687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Korean Succulents<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above">
+<meta charset="UTF-8">
+<p><meta charset="UTF-8"><strong>New to Succulents World? Wanna try planting Korean Succulents?🌸We have EVERYTHING you need! 3 Random Korean Succulents + 3 small "Pink Bun" Collection ceramic pots + Soil(s) you need + Tool Set🌹</strong></p>
+<p><em data-mce-fragment="1">*The plants featured in this bundle represent a <span data-mce-fragment="1">random</span> assortment of succulents and pots, imported from Korea. Therefore, the plants you receive will be different than what you see in the photo. While the quality is the same, we cannot guarantee that you will receive the same exact plants.</em></p>
+<p>Order this mixed bundle at affordable wholesale pricing and quickly add the warm feel of springtime to different spots in your house!</p>
+</div>
+<div class="product-description-wrapper above">
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIY KIT</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6754250162336</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6055105167520</id>
+    <published>2021-02-14T16:56:12-05:00</published>
+    <updated>2021-02-14T16:56:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/diy-succulents-terrarium-kit-geometric-cube-1"/>
+    <title>DIY Succulents Terrarium Kit - Geometric Cube</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2_0b80338e-13ba-47f0-9a8d-c3440e12fbd5.jpg?v=1613338504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            87.99 - 107.99
+            <a href="https://www.springergarden.com/products/diy-succulents-terrarium-kit-geometric-cube-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Ideal Gift 🌟</p>
+<p><strong>What you can expect:</strong></p>
+<ul>
+<li>Square/Cube Geometric Terrarium</li>
+<li>3 <a href="https://www.springergarden.com/collections/succulents/products/baby-succulent">Baby Succulents</a>
+</li>
+<li>1 Bag of Succulent Soil</li>
+<li>1 Bag of Colourful Sand</li>
+<li>1 Bag of <span data-mce-fragment="1">Granular/Nutritious Soil</span>
+</li>
+<li><span data-mce-fragment="1">1 Set of DIY Planting Tool</span></li>
+</ul>
+<p><meta charset="UTF-8">Leave us a message when you check out if you have a specific wish for the sand's color <br></p>
+<p><strong data-mce-fragment="1">Size:</strong></p>
+<p><meta charset="UTF-8"><span data-mce-fragment="1">Small: 9 cm*h - 9 cm*w</span></p>
+<p>Medium: 12 cm*h - 12 cm*w</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIY KIT</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055105167520</id>
+      <title>S</title>
+      <s:price currency="CAD">87.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055105167520</id>
+      <title>M</title>
+      <s:price currency="CAD">107.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6055088619680</id>
+    <published>2021-02-14T16:56:11-05:00</published>
+    <updated>2021-02-14T16:56:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/copy-of-diy-airplant-terrarium-kit-geometric-cube"/>
+    <title>DIY Airplant Terrarium Kit - Geometric Cube</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4_adc38150-20e4-44d9-87e6-f3a2d3e82ced.jpg?v=1613339964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            62.99 - 70.99
+            <a href="https://www.springergarden.com/products/copy-of-diy-airplant-terrarium-kit-geometric-cube">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Ideal Gift 🌟</p>
+<p><strong>What you can expect:</strong></p>
+<ul>
+<li>Geometric Cube Terrarium</li>
+<li>1 Bag of Sand/Rock<br>
+</li>
+<li>1 Air plant</li>
+<li>2 Cute <a href="https://www.springergarden.com/collections/tools/products/decoration">Micro Landsape Decorations</a>
+</li>
+</ul>
+<p><meta charset="UTF-8">Leave us a message when you check out if you have a specific wish for the sand's color and decoration <br></p>
+<p><strong data-mce-fragment="1">Size:</strong></p>
+<p><meta charset="UTF-8"><span data-mce-fragment="1">Small: 9 cm*h - 9 cm*w</span></p>
+<p>Medium: 12 cm*h - 12 cm*w</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIY KIT</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055088619680</id>
+      <title>S</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055088619680</id>
+      <title>M</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6055049822368</id>
+    <published>2021-02-14T16:56:10-05:00</published>
+    <updated>2021-02-14T16:56:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/diy-airplant-terrarium-kit"/>
+    <title>DIY Airplant Terrarium Kit - Hanging Globe</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/5_f56243f1-fb56-4a64-ab4d-9f174404a72d.jpg?v=1613340067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            16.99 - 19.99
+            <a href="https://www.springergarden.com/products/diy-airplant-terrarium-kit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Ideal Gift 🌟</p>
+<p><strong>What you can expect:</strong></p>
+<ul>
+<li>Hanging Globe Terrarium</li>
+<li>1 Bag of Sand/Rock<br>
+</li>
+<li>1 Air plant</li>
+<li>2 Cute <a href="https://www.springergarden.com/collections/tools/products/decoration">Micro Landsape Decorations</a>
+</li>
+</ul>
+<p><meta charset="UTF-8">Leave us a message when you check out if you have a specific wish for the sand's color and decoration <br></p>
+<p><strong data-mce-fragment="1">Size:</strong></p>
+<p>Small Terrarium: 3.7" h x 6" d</p>
+<p>Large Terrarium: 6.5" h x 8" d</p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIY KIT</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055049822368</id>
+      <title>S</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6055049822368</id>
+      <title>M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

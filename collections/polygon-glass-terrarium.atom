@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/polygon-glass-terrarium.atom"/>
+  <title>Springer Garden</title>
+  <updated>2020-10-31T17:21:24-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/5778608292000</id>
+    <published>2020-10-31T17:21:24-04:00</published>
+    <updated>2020-10-31T17:21:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/bubble"/>
+    <title>Bubble</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_20201019_152253-01-01copy.jpg?v=1618156886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Christmas Special<br></p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Ceramic</li>
+<li>Imported</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>4‘’H, 3.5‘’diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5778608292000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5663057576096</id>
+    <published>2020-09-20T12:50:18-04:00</published>
+    <updated>2020-09-20T12:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/golden-palace-geometric-terrarium"/>
+    <title>Golden Palace Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/23_1c2afff0-68ea-4311-9016-6eb85f50eb3e.jpg?v=1618159560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>5.0cmL, 9.0cmW, 17.0cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5663057576096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5663050924192</id>
+    <published>2020-09-20T12:50:17-04:00</published>
+    <updated>2020-09-20T12:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/diamond-geometric-terrarium"/>
+    <title>Diamond Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/12_9d8689dd-69e8-4d4c-b803-5f9b83463405.jpg?v=1618158652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>12.0cmL, 7.5cmW, 12.0cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5663050924192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1564388556857</id>
+    <published>2020-09-20T12:40:57-04:00</published>
+    <updated>2020-09-20T12:40:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/golden-conch-polygon"/>
+    <title>Conch Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/26_56439629-572f-4726-b9af-db4976addce2.jpg?v=1618173983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>27.0cmL, 20.0cmW </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1564388556857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2458845839417</id>
+    <published>2019-10-23T11:51:18-04:00</published>
+    <updated>2019-10-23T11:51:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/hanging-terrariums"/>
+    <title>Hanging Terrariums</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_1845_copy_3839bb45-75c8-4cb5-8ed5-aebda9269717.jpg?v=1618160199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            9.99 - 11.99
+            <a href="https://www.springergarden.com/products/hanging-terrariums">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span style="color: #ff8000;">Especially for Air Plants</span></p>
+<p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>Small: 10.0 x 10.0 x 10.0 cm</li>
+<li>Medium: 12.0 x 12.0 x 12.0 cm</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2458845839417</id>
+      <title>S</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2458845839417</id>
+      <title>M</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2458852130873</id>
+    <published>2019-09-30T01:42:49-04:00</published>
+    <updated>2019-09-30T01:42:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/goldblack-round"/>
+    <title>GoldBlack 005</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_1868_copy.jpg?v=1618159249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Style No.03000010</p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li><span>Metal &amp; Glass</span></li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>12cmL, 12cmW, 4cmH </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2458852130873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/3704401428537</id>
+    <published>2019-09-13T14:15:05-04:00</published>
+    <updated>2019-09-13T14:15:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/goldblack-ball"/>
+    <title>GoldBlack 001</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_1994_copy.jpg?v=1618159218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Style No.030007</p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li><span>Metal &amp; Glass</span></li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>20cmL, 20cmW, 25cmH </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/3704401428537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/3704396775481</id>
+    <published>2019-09-13T14:11:07-04:00</published>
+    <updated>2019-09-13T14:11:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/goldblack-vase"/>
+    <title>GoldBlack 006</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_1862_copy.jpg?v=1618159286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            55.99 - 74.99
+            <a href="https://www.springergarden.com/products/goldblack-vase">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Style No.03000011</p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li><span>Metal &amp; Glass</span></li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>S: 18cmL, 18cmW, 18cmH</li>
+<li>L: 25cmL, 25cmW, 20cm HcmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/3704396775481</id>
+      <title>S</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/3704396775481</id>
+      <title>L</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2310417252409</id>
+    <published>2019-06-20T14:57:35-04:00</published>
+    <updated>2019-06-20T14:57:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/decorative-cylinder-glass-pot"/>
+    <title>Decorative Cylinder Glass Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_1485_2689a9d2-c349-4bf9-b3f4-b29d9ac91b87.jpg?v=1618158488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>11.0cmL, 11.0cmW, 14.0cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2310417252409</id>
+      <title>Pot</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2161984274489</id>
+    <published>2019-04-09T23:57:16-04:00</published>
+    <updated>2019-04-09T23:57:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/hemisphere-medium-polygon"/>
+    <title>Medium Hemisphere Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/19_3995f6ea-0037-40b6-8f6b-107688d82418.jpg?v=1618161247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>13.0cmL, 13.0cmW, 12.0cmH</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2161984274489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1891335471161</id>
+    <published>2018-12-09T23:51:04-05:00</published>
+    <updated>2018-12-09T23:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cylinder-glass-pot"/>
+    <title>Cylinder Glass Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_0459_bbe52d6f-ee06-45f9-a2fe-69abe1a7dff2.JPG?v=1618158372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li><span>Glass</span></li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>4"L, <span data-mce-fragment="1">4"</span>W, 5.75"H</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter 4&quot;- 6&quot;</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1891335471161</id>
+      <title>pot</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1769510502457</id>
+    <published>2018-10-19T21:56:48-04:00</published>
+    <updated>2018-10-19T21:56:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/terrariums"/>
+    <title>Terrariums</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/IMG_0451.JPG?v=1618172923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li><span>Glass</span></li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>15cmL, 15cmW, 15cmH  </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1769510502457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1564397338681</id>
+    <published>2018-07-19T00:42:38-04:00</published>
+    <updated>2018-07-19T00:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/golden-football-polygon"/>
+    <title>Golden Football Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/15_665503af-7d34-411e-af0a-82d6fb750230.jpg?v=1618159485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p>Dreamy pot/dish for your plants or as storage space</p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece;</li>
+<li>Glass: 2 mm Clear Glass; Foil: Copper Foil; Patina: Black, Copper, Rustic Copper or Silver</li>
+<li>Imported</li>
+<li>No drainage hole</li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li><span>6.89 x 6.89 x 5.9 inches</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1564397338681</id>
+      <title>Pot</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1564396879929</id>
+    <published>2018-07-19T00:42:38-04:00</published>
+    <updated>2018-07-19T00:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/square-polygon-pot"/>
+    <title>Square/Cube Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4_1023e76e-a7b1-46e9-a6a7-53af0446b12d.jpg?v=1618172834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            57.99 - 67.99
+            <a href="https://www.springergarden.com/products/square-polygon-pot">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;">（without Succulents）</span></p>
+<p><em><strong>Size:</strong></em></p>
+<p>Handmade Glass Terrarium:</p>
+<p>Medium: 12 cm*h - 12 cm*w</p>
+<p><span>Small: 9 cm*h - 9 cm*w</span></p>
+<p><em><strong>Material:</strong></em></p>
+<p><span>Glass: 2 mm Clear Glass </span></p>
+<p><span>Foil: Copper Foil </span></p>
+<p><span>Patina: Black, Copper, Rustic Copper or Silver</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1564396879929</id>
+      <title>Small</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1564396879929</id>
+      <title>Medium</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1417321939001</id>
+    <published>2018-07-19T00:42:38-04:00</published>
+    <updated>2018-07-19T00:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/triangle-polygon"/>
+    <title>Triangle Geometric Terrarium</title>
+    <s:type>Terrarium</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/28_99b1274e-d06e-4748-940a-6edce7c1587d.jpg?v=1618173143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Terrarium<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1"><em data-mce-fragment="1">Details</em></strong></p>
+<p><em data-mce-fragment="1"><strong data-mce-fragment="1">Dimensions </strong></em>Handmade Glass Terrarium: 10.0 x 10.0 x 19.5 cm </p>
+<p><em data-mce-fragment="1"><strong data-mce-fragment="1">Material </strong></em></p>
+<ul>
+<li><span>Glass: 2 mm Clear Glass </span></li>
+<li><span>Foil: Copper Foil </span></li>
+<li>
+<span>Patina: Black, Copper, Rustic Copper or Silver</span> </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1417321939001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

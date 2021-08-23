@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/tools.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-05-11T16:50:03-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6693969297568</id>
+    <published>2021-05-11T16:50:03-04:00</published>
+    <updated>2021-05-11T16:50:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/sun-mesh-shade-sunblock"/>
+    <title>Sun Mesh Shade Sunblock</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/SunMeshShade.png?v=1620766213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            15.99 - 19.99
+            <a href="https://www.springergarden.com/products/sun-mesh-shade-sunblock">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Use for greenhouses, plant, flowers, fruits Cover, livestock housing, poultry buildings, hoop structures, barns, kennels and more, block the sun, with heat, moisture, frost-proof, cooling. Mesh and breathable, perfect for plant cover, summer shading cover.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6693969297568</id>
+      <title>2m x 2m</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6693969297568</id>
+      <title>2m x 3m</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685201727648</id>
+    <published>2021-05-06T16:15:37-04:00</published>
+    <updated>2021-05-06T16:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/drainage-mesh-hole-screens"/>
+    <title>Drainage Mesh Hole Screens</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/6_d7e9b324-3789-458a-af5e-21ab5138ff57.jpg?v=1620332147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            1.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 for $1.19</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685201727648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6650431733920</id>
+    <published>2021-04-18T15:17:23-04:00</published>
+    <updated>2021-04-18T15:17:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/heat-pack-protection"/>
+    <title>Cold Weather Protection</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/heatpack.jpg?v=1618774756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            13.59 - 14.99
+            <a href="https://www.springergarden.com/products/heat-pack-protection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>We will use insulated package and heat pack to protect the plants for your order.<br></p>
+<p>#ForColdWeather</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6650431733920</id>
+      <title>72hr</title>
+      <s:price currency="CAD">13.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6650431733920</id>
+      <title>96hr</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1813804023865</id>
+    <published>2020-12-28T14:05:32-05:00</published>
+    <updated>2020-12-28T14:05:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/light"/>
+    <title>Small Bulb decoration</title>
+    <s:type>Tool</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/image_9ce4cfc0-359a-44b3-b725-4bad8e519f04.jpg?v=1589670370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Battery included</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1813804023865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5949501636768</id>
+    <published>2020-12-28T13:28:29-05:00</published>
+    <updated>2020-12-28T13:28:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/black-lava"/>
+    <title>Black Lava</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/BLACKLAVA.jpg?v=1609180121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            8.99 - 14.99
+            <a href="https://www.springergarden.com/products/black-lava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Details:</strong></em></p>
+<p>The porous stone formed after the volcanic eruption is very precious. When erupting, the magma that erupts has gas slag, solid magma. Temperature and pressure drop rapidly, chemical and physical changes take place, so the magma becomes volcanic. It contains a large amount of silicon, potassium, sodium, iron, magnesium, 26 kinds of mineral elements, as well as copper, zinc, chromium, nickel, manganese and so on. After heating, the volcanic rock will release a large number of misty energy ions, which will produce magnetic effect, thermothermal effect, cold and hot effect. Volcanic rocks are rich in trace elements, which are also produced by their accumulation. However, they are heavy and heavy, so after watering for a while, they will sink to the bottom...</p>
+<p><span>#Granular Soil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5949501636768</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5949501636768</id>
+      <title>1kg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5780125089952</id>
+    <published>2020-10-18T11:26:52-04:00</published>
+    <updated>2020-10-18T11:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/white-lava"/>
+    <title>White Lava</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/whitelava.jpg?v=1606060106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            8.99 - 14.99
+            <a href="https://www.springergarden.com/products/white-lava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Details:</strong></em></p>
+<p>The porous stone formed after the volcanic eruption is very precious. When erupting, the magma that erupts has gas slag, solid magma. Temperature and pressure drop rapidly, chemical and physical changes take place, so the magma becomes volcanic. It contains a large amount of silicon, potassium, sodium, iron, magnesium, 26 kinds of mineral elements, as well as copper, zinc, chromium, nickel, manganese and so on. After heating, the volcanic rock will release a large number of misty energy ions, which will produce magnetic effect, thermothermal effect, cold and hot effect. Volcanic rocks are rich in trace elements, which are also produced by their accumulation. However, they are heavy and heavy, so after watering for a while, they will sink to the bottom...</p>
+<p><span>#Granular Soil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780125089952</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780125089952</id>
+      <title>1kg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5780107821216</id>
+    <published>2020-10-18T11:15:31-04:00</published>
+    <updated>2020-10-18T11:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/colored-sands"/>
+    <title>Colored Sands</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/coloursands.jpg?v=1603034145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            4.99 - 7.99
+            <a href="https://www.springergarden.com/products/colored-sands">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Learn More:</strong></em></p>
+<p><a href="https://www.springergarden.com/blogs/blog/how-to-use-soil-to-help-your-succulent-cuties-grow-better" title="/how-to-use-soil-to-help-your-succulent-cuties-grow-better">https://www.springergarden.com/blogs/blog/how-to-use-soil-to-help-your-succulent-cuties-grow-better</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Red - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Orange - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Yellow - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Lemon - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Blue - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Black - 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5780107821216</id>
+      <title>Regular - 200g</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5401484132512</id>
+    <published>2020-10-17T14:42:50-04:00</published>
+    <updated>2020-10-17T14:42:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/vermiculite-soil"/>
+    <title>Vermiculite Soil</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/VermiculiteSoil.jpg?v=1602960064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/vermiculite-soil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><strong><em>Detail:</em></strong></p>
+<p><a title="vermiculite-soil" href="https://www.springergarden.com/collections/tools/products/vermiculite-soil%20">Vermiculite</a><span> Soil has a mica-like structure, in fact, is also very easy to break, will expand after absorbing water, characteristics, water retention, very water retention. It is a hydrous phyllosilicate mineral that undergoes significant expansion when heated. Exfoliation occurs when the mineral is heated sufficiently, and commercial furnaces can routinely produce this effect. Vermiculite forms by the weathering or hydrothermal alteration of biotite or phlogopite. The comprehensive character is slightly better than perlite, which can be used to regulate soil moisture. Each peddler quality is uneven, the difference is very big, the individual feels the color is lighter the better the harder, that kind of brown broke open at a moment.</span></p>
+<p><em><strong>Dimension:</strong></em><br></p>
+<p><span>1-3 mm</span></p>
+<p><span>#Granular Soil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5401484132512</id>
+      <title>15g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5401484132512</id>
+      <title>30g</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5401479446688</id>
+    <published>2020-09-02T13:29:28-04:00</published>
+    <updated>2020-09-02T13:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/akadama"/>
+    <title>Akadama</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Akadama.jpg?v=1606059810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/akadama">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Details:</strong></em></p>
+<p><span>Akadamatsuchi</span></p>
+<p><b>red ball earth</b></p>
+<p><span><meta charset="UTF-8"> <a href="https://www.springergarden.com/collections/tools/products/akadama">Akadama</a>, aka red ball earth, is a naturally occurring, a granular clay-like mineral used as soil for bonsai trees and other container-grown plants. The king of weak acidity, water retention, and breathability, made from volcanic ash and widely cultivated in Japan. Obvious discoloration after water absorption can help observe the degree of dry and wet soil and judge the watering cycle. Akadama's color darkens when moist which can help the grower determine when to water a tree.However, it is easy to cause soil compaction due to pulverization, so it is not recommended to use in large amounts.</span></p>
+<p><em><strong>Dimension:</strong></em><br></p>
+<p><span>3-6mm</span></p>
+<p><span>#Granular Soil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5401479446688</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5401479446688</id>
+      <title>1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5397584052384</id>
+    <published>2020-07-16T22:32:28-04:00</published>
+    <updated>2020-07-16T22:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/price-different"/>
+    <title>Price Different</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/39b5a026-ee56-4645-8a1a-78d4598ab596.jpg?v=1594953149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            1.00 - 35.00
+            <a href="https://www.springergarden.com/products/price-different">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purchase only under the instruction of the customer service team</p>
+<p>(Options for shipping fee)</p>
+<p>Purchase multiple to reach the price needed</p>
+<p>Quantity 1 = $1</p>
+<p>Quantity 2 = $2</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$1.00</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$5.00</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$8.00</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$15.00</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$18.00</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$20.00</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$35.00</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5397584052384</id>
+      <title>$10</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2292287897657</id>
+    <published>2020-07-03T21:43:52-04:00</published>
+    <updated>2020-07-03T21:43:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/ceramsite"/>
+    <title>Ceramsite</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Ceramsite.jpg?v=1606059867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            8.99 - 11.99
+            <a href="https://www.springergarden.com/products/ceramsite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><em><strong>Detail:</strong></em></p>
+<p><a title="ceramsite" href="https://www.springergarden.com/collections/tools/products/ceramsite">Ceramsite</a><span> is used as pelvic floor stone commonly, it is pad in pelvic floor. Most of the appearance features are round or elliptic spheres, but some imitators are not round or elliptic spheres, but irregular gravel shape, very hard, usually on the bottom of the pot ceramic, can prevent the root from overwetting.</span></p>
+<p><em><strong>Dimension:</strong></em><br></p>
+<p><span>8-11 mm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2292287897657</id>
+      <title>150g</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2292287897657</id>
+      <title>300g</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5313128824992</id>
+    <published>2020-06-20T19:34:07-04:00</published>
+    <updated>2020-06-20T19:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/white-pebbles"/>
+    <title>White Pebbles</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/whitestone.jpg?v=1606060057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/white-pebbles">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><em data-mce-fragment="1"><strong data-mce-fragment="1">Dimension:</strong></em><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">4-6 mm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5313128824992</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5313128824992</id>
+      <title>1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5309414768800</id>
+    <published>2020-06-19T19:20:30-04:00</published>
+    <updated>2020-06-19T19:20:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/red-lava"/>
+    <title>Red Lava</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/RED-LAVA.jpg?v=1606060088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/red-lava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Details:</strong></em></p>
+<p>The porous stone formed after the volcanic eruption is very precious. When erupting, the magma that erupts has gas slag, solid magma. Temperature and pressure drop rapidly, chemical and physical changes take place, so the magma becomes volcanic. It contains a large amount of silicon, potassium, sodium, iron, magnesium, 26 kinds of mineral elements, as well as copper, zinc, chromium, nickel, manganese and so on. After heating, the volcanic rock will release a large number of misty energy ions, which will produce magnetic effect, thermothermal effect, cold and hot effect. Volcanic rocks are rich in trace elements, which are also produced by their accumulation. However, they are heavy and heavy, so after watering for a while, they will sink to the bottom...<br></p>
+<p><meta charset="UTF-8"></p><p><meta charset="UTF-8"></p><a data-encoded-attr-charset="VVRGLTg=" data-encoded-tag-value="" data-encoded-tag-name="meta">
+<p><span>3-6 mm</span></p>
+</a><span>#Granular </span><span>S</span><span>oil</span><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309414768800</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309414768800</id>
+      <title>1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5309414244512</id>
+    <published>2020-06-19T19:20:08-04:00</published>
+    <updated>2020-06-19T19:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/green-zeolite"/>
+    <title>Green Zeolite</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/greenstone.jpg?v=1606059890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/green-zeolite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Detail:</strong></em></p>
+<p><span data-mce-fragment="1">Green Zeolite is pumice and zeolite, it is named based on its colour, has the same effect with pumice, which is the good insect control and decorative effect, also</span> great for <span data-mce-fragment="1">sterilization.</span><br></p>
+<p><em><strong>Dimension:</strong></em><br></p>
+<p><span>3-6 mm</span></p>
+<p><span data-mce-fragment="1">#Granular Soil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309414244512</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309414244512</id>
+      <title>1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5309412114592</id>
+    <published>2020-06-19T19:19:07-04:00</published>
+    <updated>2020-06-19T19:19:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/maifanitum"/>
+    <title>Maifanitum</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Maifanitum-Small.jpg?v=1606059973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/maifanitum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Details:</strong></em></p>
+<p><a href="https://www.springergarden.com/collections/tools/products/maifanitum">Maifanitum</a> is formed by volcanic eruptions and rich in trace elements, has the outstanding advantage of absorbing moisture from the air (hence the use of some as a root trap for decapitated plants) and is both water-retaining and water-exhausting.</p>
+<p>A compound mineral or medicinal rock that is non-toxic and harmless to living organisms and has certain biological activity. The main chemical composition of maifenstone is inorganic silicoaluminate. It includes SiO2, Al2O3, Fe2O3, FeO, MgO, CaO, K2O, Na2O, TiO2, P2O5, MnO, etc. It also contains all the major elements needed by animals, such as K, Na, Ca, Mg, Cu, Mo and other trace elements and rare earth elements, about 58 kinds.</p>
+<p><span>#Granular Soil</span></p>
+<p><em><strong>Dimension:</strong></em></p>
+<p>Small Size 2-4mm</p>
+<p>Big Size 4-6mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309412114592</id>
+      <title>Small Size 0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309412114592</id>
+      <title>Small Size 1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309412114592</id>
+      <title>Big Size 0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5309412114592</id>
+      <title>Big Size 1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4896793821229</id>
+    <published>2020-05-29T10:32:21-04:00</published>
+    <updated>2020-05-29T10:32:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/sq.jpg?v=1608780146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            50.00 - 2000.00
+            <a href="https://www.springergarden.com/products/gift-card">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a Springer Garden gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$150.00 CAD</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$200.00 CAD</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$300.00 CAD</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$500.00 CAD</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$1000.00 CAD</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4896793821229</id>
+      <title>$2000.00 CAD</title>
+      <s:price currency="CAD">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2454861512761</id>
+    <published>2020-05-12T21:06:41-04:00</published>
+    <updated>2020-05-12T21:06:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/fertilizer"/>
+    <title>Fertilizer</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/FERTILIZER.jpg?v=1603033063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            3.99 - 5.99
+            <a href="https://www.springergarden.com/products/fertilizer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The regular fertilizer, which good for succulents to grow.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454861512761</id>
+      <title>25g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454861512761</id>
+      <title>50g</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4924251177005</id>
+    <published>2020-04-15T20:03:20-04:00</published>
+    <updated>2020-04-15T20:03:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/soil-mix-lava"/>
+    <title>Mix Lava Soil</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/MIXLAVA.jpg?v=1609180062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            5.99 - 10.99
+            <a href="https://www.springergarden.com/products/soil-mix-lava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em data-mce-fragment="1"><strong data-mce-fragment="1">Detail:</strong></em></p>
+<p>Black lava + Red lava + Green Zeolite (Greenstone) + Maifanitum + White Pumice</p>
+<p>#Granular Soil</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soil &amp; Fertilizer</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4924251177005</id>
+      <title>0.5kg</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4924251177005</id>
+      <title>1kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2454855483449</id>
+    <published>2019-08-15T13:43:00-04:00</published>
+    <updated>2019-08-15T13:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/colored-stones"/>
+    <title>Colored Stones</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/COLOUREDSAND.jpg?v=1603033989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Learn More:</strong></em></p>
+<p><a title="/how-to-use-soil-to-help-your-succulent-cuties-grow-better" href="https://www.springergarden.com/blogs/blog/how-to-use-soil-to-help-your-succulent-cuties-grow-better" data-mce-href="https://www.springergarden.com/blogs/blog/how-to-use-soil-to-help-your-succulent-cuties-grow-better">https://www.springergarden.com/blogs/blog/how-to-use-soil-to-help-your-succulent-cuties-grow-better</a></p>
+<p><span>200ml per bag</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454855483449</id>
+      <title>Silver / 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454855483449</id>
+      <title>Gold - Big Size / 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454855483449</id>
+      <title>Black / 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454855483449</id>
+      <title>Gold - Small Size / 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2454855483449</id>
+      <title>Red Crystal / 200g</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/2441146073145</id>
+    <published>2019-08-10T13:08:46-04:00</published>
+    <updated>2019-08-10T13:08:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/emergency-fee"/>
+    <title>Emergency Fee/Pot</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/mmexport1594351455702.jpg?v=1603569429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>for emergency orders</p>
+<p>for out of schedule delivery</p>
+<p>for repotting needed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/2441146073145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1842824216633</id>
+    <published>2018-11-18T19:50:46-05:00</published>
+    <updated>2018-11-18T19:50:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/diy-tool-set"/>
+    <title>DIY Tool Set</title>
+    <s:type>Tool</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/DIYToolSet.jpg?v=1616278417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Planting Tool Set</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1842824216633</id>
+      <title>Pink</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1842824216633</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1776312320057</id>
+    <published>2018-10-22T22:57:40-04:00</published>
+    <updated>2018-10-22T22:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/handcraft-fee"/>
+    <title>Repotting Fee/Per Plant</title>
+    <s:type>Tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/DSC08597.JPG?v=1615509980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Tool<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;">Only for delivery and pick-up orders.</span></p>
+<p><span style="color: #ff2a00;" mce-data-marked="1">We will ship soil package if it is shipping order.</span></p>
+<p>Order here, we will put the plants into the planters for you</p>
+<p>Planting material included (Ceramic, succulents soil, white pebbles)</p>
+<p>Price for per plant for our planters</p>
+<p>* If you bring your planter, please send us a photo of your planter and contact us for more details.</p>
+<p>Add more quantity if you want more than one plant+planter set</p>
+<p>#Handcraft Fee</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1776312320057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1980148613177</id>
+    <published>2018-10-07T10:37:45-04:00</published>
+    <updated>2018-10-07T10:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/bee-decoration"/>
+    <title>Micro Landscape Decorations</title>
+    <s:type>tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2_260b51bc-e9a3-4958-a558-d73373f2c85c.jpg?v=1609205323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>tool<br>
+        <strong>Price: </strong>
+            1.50 - 2.50
+            <a href="https://www.springergarden.com/products/bee-decoration">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For micro landscape and decorate your garden/pot</p>
+<p>Send us the message if you have special requirements</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Bee- yellow</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Bee-Pink</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Mushroom (random 3)</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (Purple)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (White)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (Blue)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (Yellow)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (Red)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980148613177</id>
+      <title>Fence (Orange)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1980144877625</id>
+    <published>2018-10-07T10:37:45-04:00</published>
+    <updated>2018-10-07T10:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/hat-decoration"/>
+    <title>Knitted Hat</title>
+    <s:type>tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/RedHat.jpg?v=1609182229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>tool<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small Hat</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decoration</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980144877625</id>
+      <title>Christmas / Red</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980144877625</id>
+      <title>Pink</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980144877625</id>
+      <title>Grey</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980144877625</id>
+      <title>Dark Pink</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1980144877625</id>
+      <title>Straw Hat</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/1942788145209</id>
+    <published>2018-10-07T10:37:45-04:00</published>
+    <updated>2018-10-07T10:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/packing-box"/>
+    <title>Packing Box</title>
+    <s:type>tool</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/77b2fbf0ad2d109278a528d8fe604de.jpg?v=1603568330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>tool<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Dimension: </em></strong></p>
+<p>12cm x 12cm x 15cm<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/1942788145209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

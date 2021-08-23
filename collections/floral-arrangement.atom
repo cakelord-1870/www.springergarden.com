@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/floral-arrangement.atom"/>
+  <title>Springer Garden</title>
+  <updated>2020-08-18T20:18:16-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/5523730006176</id>
+    <published>2020-08-18T20:18:16-04:00</published>
+    <updated>2020-08-18T20:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/chinese-valentines-day-special"/>
+    <title>Valentine&apos;s Day Floral Arrangement Special</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/1_7cd4bdef-703f-4854-8687-9cec811e2b31.jpg?v=1610224382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>This special edition is for all the people in love ❤<br>
+</h4>
+<p>The succulents and flowers will dry out after 1-2 month but the shape would not change forever.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floral Arrangement</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5523730006176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4438000730157</id>
+    <published>2019-12-21T20:16:15-05:00</published>
+    <updated>2019-12-21T20:16:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/no-3"/>
+    <title>Floral Arrangement No.2</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/mmexport1571945061672_1.jpg?v=1600121164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Springer Garden exclusive planter featured 2-3 baby succulents with selected florals. Designed by the certificated florist. The plants can last forever when dry out. Best choice for the present and give your home a special look.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floral Arrangement</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4438000730157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4438000369709</id>
+    <published>2019-12-21T20:15:34-05:00</published>
+    <updated>2019-12-21T20:15:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/no-2"/>
+    <title>Floral Arrangement No.3</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/mmexport1571945089915_1.jpg?v=1600121461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Springer Garden exclusive planter featured 2-3 baby succulents with selected florals. Designed by the certificated florist. <span>The plants can last forever when dry out.</span> Best choice for the present and give your home a special look.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floral Arrangement</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4438000369709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/4437999091757</id>
+    <published>2019-12-21T20:07:52-05:00</published>
+    <updated>2019-12-21T20:07:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/no-1"/>
+    <title>Floral Arrangement No.1</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/mmexport1571803591029_1.jpg?v=1600121496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Springer Garden exclusive planter featured 2-3 baby succulents with selected florals. Designed by the certificated florist. The plants can last up to 1 year. Best choice for the present and give your home a special look.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floral Arrangement</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/4437999091757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

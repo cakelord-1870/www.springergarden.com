@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/houseplants.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-08-18T15:01:28-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6904883937440</id>
+    <published>2021-08-18T15:01:28-04:00</published>
+    <updated>2021-08-18T15:01:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/tradescantia-lilac"/>
+    <title>Tradescantia &apos;Lilac&apos;</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Tradescantia_Lilac.jpg?v=1629313344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-staticclassnames="Nms1457443084630 description-plante" class="Nms1457443084630 description-plante" id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" itemid="Nms1457443084630">
+<div data-considerzeroasempty="false" class="ProductBrokerType_RichText" data-deleteparentzone="false" data-deleteparenttablerow="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-hideifvalueequalszero="false" data-deleteclassname="" data-valueashtml="True" data-format="" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<p><b></b><em><strong><span data-mce-fragment="1">3.5" Pot </span></strong></em></p>
+<div class="product-description-wrapper above">
+<div class="product-description-wrapper above">
+<p><em><strong>Care Instructions:</strong></em></p>
+<p> </p>
+<p><span data-mce-fragment="1">-Houseplant caring tips, read </span><a href="https://www.springergarden.com/blogs/blog/houseplant-care-101">here</a></p>
+<p> </p>
+</div>
+</div>
+<div class="product-description-wrapper above">
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/planters" data-mce-href="https://www.springergarden.com/collections/planters">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee" data-mce-href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6904883937440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6904872960160</id>
+    <published>2021-08-18T14:56:54-04:00</published>
+    <updated>2021-08-18T14:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/peperomia-raindrop"/>
+    <title>Peperomia Raindrop</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PeperomiaRaindrop.jpg?v=1629314365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<div class="product-description-wrapper above">
+<div class="product-description-wrapper above">
+<p><em><strong><span data-mce-fragment="1">3.5" Pot </span></strong></em></p>
+<p><em><strong>Care Instructions:</strong></em></p>
+<p><span data-mce-fragment="1">-Houseplant caring tips, read </span><a href="https://www.springergarden.com/blogs/blog/houseplant-care-101">here</a></p>
+<p> </p>
+</div>
+</div>
+<div class="product-description-wrapper above">
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/planters" data-mce-href="https://www.springergarden.com/collections/planters">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee" data-mce-href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6904872960160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6904867324064</id>
+    <published>2021-08-18T14:55:40-04:00</published>
+    <updated>2021-08-18T14:55:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/hoya-hindu-rope"/>
+    <title>Hoya Hindu Rope</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/HoyaHinduRope.jpg?v=1629312996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<div class="product-description-wrapper above">
+<div class="product-description-wrapper above">
+<p><em><strong><span data-mce-fragment="1">6" Pot </span></strong></em></p>
+<p><em><strong>Care Instructions:</strong></em></p>
+<p><span data-mce-fragment="1">-Houseplant caring tips, read </span><a href="https://www.springergarden.com/blogs/blog/houseplant-care-101">here</a></p>
+<p> </p>
+</div>
+</div>
+<div class="product-description-wrapper above">
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/planters" data-mce-href="https://www.springergarden.com/collections/planters">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee" data-mce-href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6904867324064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6904866439328</id>
+    <published>2021-08-18T14:53:46-04:00</published>
+    <updated>2021-08-18T14:53:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/ficus-triangularis-variegata"/>
+    <title>Ficus Triangularis Variegata</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/FicusTriangularisVariegata.jpg?v=1629312845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<div class="product-description-wrapper above">
+<div class="product-description-wrapper above">
+<p><em><strong><meta charset="UTF-8"> <span data-mce-fragment="1">3.5" Pot </span></strong></em></p>
+<p><em><strong>Care Instructions:</strong></em></p>
+<p><span data-mce-fragment="1">-Houseplant caring tips, read </span><a href="https://www.springergarden.com/blogs/blog/houseplant-care-101">here</a></p>
+<p> </p>
+</div>
+</div>
+<div class="product-description-wrapper above">
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/planters" data-mce-href="https://www.springergarden.com/collections/planters">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee" data-mce-href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+</div>
+<p><b></b><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6904866439328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5816316231840</id>
+    <published>2021-08-18T14:53:33-04:00</published>
+    <updated>2021-08-18T14:53:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasia-black"/>
+    <title>Alocasia Black Velvet</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/AlocasiaBlackVelvet.jpg?v=1629312782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="Ne0017eb7d3664b6e9d5d92ca598df81e_Na041e9668f5c41d09f389c98045d987d_Ndfc16cb928d64d4298b71e49e7aa27cf_N34d4dd8d2b6a44088290c991300b3d56_Ne8624f9dd18e43dcbb0d269c6fb8f213_Nms1457443084610_Nms1457443084613_Nms1457443084626_Nms1457443084630" class="Nms1457443084630 description-plante" data-staticclassnames="Nms1457443084630 description-plante" itemid="Nms1457443084630">
+<div data-format="" data-valueashtml="True" data-deleteclassname="" data-hideifvalueequalszero="false" data-broker='{"PropertyName":0,"CustomFieldGuid":"4e2a5987-7487-4d9b-1b2f-299fc96226bc","ResultValuePropertyName":""}' data-deleteparenttablerow="false" data-deleteparentzone="false" class="ProductBrokerType_RichText" data-considerzeroasempty="false" brokeridentifier="InventoryProductBroker_CF_4e2a5987-7487-4d9b-1b2f-299fc96226bc">
+<p><b></b><em><strong><span data-mce-fragment="1">4.5" Pot </span></strong></em></p>
+<div class="product-description-wrapper above">
+<div class="product-description-wrapper above">
+<p><em><strong>Care Instructions:</strong></em></p>
+<p><b>Light</b><span>: Bright indirect light is preferred but they can also handle both lower amounts of </span><span>light and some direct sun. </span></p>
+<p><b>Water</b><span>: This plant likes soil that is moist but not soggy. You can allow the top couple of </span><span>inches of soil to dry out before watering again. </span></p>
+<p><b>Other</b><span>: These plants are tropical so they prefer warm, humid environments and may b</span><span>ecome dormant in the winter if they experience prolonged colder temperatures. You can increase your humidity with a humidifier, misting the plant, keeping it in your bathroom (so long as there is enough light), or by placing it on a pebble tray.</span>  </p>
+<p><span data-mce-fragment="1">-Houseplant caring tips, read </span><a href="https://www.springergarden.com/blogs/blog/houseplant-care-101">here</a></p>
+<p> </p>
+</div>
+</div>
+<div class="product-description-wrapper above">
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/planters" data-mce-href="https://www.springergarden.com/collections/planters">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee" data-mce-href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5816316231840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6849474330784</id>
+    <published>2021-07-27T14:34:37-04:00</published>
+    <updated>2021-07-27T14:34:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/philodendron-hederaceum-brasil"/>
+    <title>Philodendron Hederaceum Brasil</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PhilodendronHederaceumBrasil.jpg?v=1627411283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><span>Water the plant often enough to keep the soil moist at all times. Check plants growing in containers often as they can dry out quickly. Fertilize plants growing in the ground in spring after the danger of frost has passed. Use a tree and shrub fertilizer with an analysis of 12-6-6 or similar every year.</span></p>
+<p>6"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Easy Care</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6849474330784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6849466957984</id>
+    <published>2021-07-27T14:29:59-04:00</published>
+    <updated>2021-07-27T14:29:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/variegated-fatsia-japonica"/>
+    <title>Variegated Fatsia Japonica</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/variegatedfatsiajaponica.jpg?v=1627410619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><span>Water the plant often enough to keep the soil moist at all times. Check plants growing in containers often as they can dry out quickly. Fertilize plants growing in the ground in spring after the danger of frost has passed. Use a tree and shrub fertilizer with an analysis of 12-6-6 or similar every year.</span></p>
+<p>6"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Easy Care</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6849466957984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6840124670112</id>
+    <published>2021-07-22T13:15:55-04:00</published>
+    <updated>2021-07-22T13:15:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/philodendron-hederaceum-neon"/>
+    <title>Philodendron Hederaceum Neon</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/PhilodendronHederaceumLemonLime.jpg?v=1626974184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><span mce-data-marked="1" data-mce-fragment="1">Aka Philodendron Hederaceum Lemon Lime</span></p>
+<p>3.5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6840124670112</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6837021442208</id>
+    <published>2021-07-21T14:35:43-04:00</published>
+    <updated>2021-07-21T14:35:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasia-pink-dragon"/>
+    <title>Alocasia Pink Dragon</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/1_5cc19233-af88-4dc2-bf8b-c65239e7ae86.jpg?v=1626892567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><meta charset="UTF-8"><span data-mce-fragment="1">Regarding the ideal spot and care, the Alocasia Pink Dragon has quite simple preferences. </span><b data-mce-fragment="1">Place the houseplant in a light spot, clear of direct sunlight</b><span data-mce-fragment="1">. Furthermore, ensure that the potting soil remains moist but does not become too wet. This can cause the roots to rot.</span><br></p>
+<p>3.5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6837021442208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6837019967648</id>
+    <published>2021-07-21T14:34:10-04:00</published>
+    <updated>2021-07-21T14:34:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/philodendron-rojo-congo"/>
+    <title>Philodendron Rojo Congo</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2_51b74067-41d4-4ccf-8c6b-c25fc034680c.jpg?v=1626892481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><meta charset="UTF-8"><span data-mce-fragment="1">Philodendron “Rojo Congo” is a unique cultivar hybridized in Florida, in keeping with the growing trend amongst home gardeners for tropical aroids suitable for indoor growing. They are very attractive plants adding a touch of luxury, and a dash of the exotic to the indoor space.</span><br></p>
+<p>3.5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6837019967648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6837015871648</id>
+    <published>2021-07-21T14:31:23-04:00</published>
+    <updated>2021-07-21T14:31:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasia-wentii"/>
+    <title>Alocasia Wentii</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/AlocasiaWentii.jpg?v=1626892319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><meta charset="UTF-8"><span data-mce-fragment="1">Aka New Guinea Shield, Alocasia Wentii' is a very impressive plant with wonderful </span><b data-mce-fragment="1">foot long large deep ruby and crimson leaves</b><span data-mce-fragment="1"> that arch over gracefully from tall long stems. Few plants can match the size and beauty of the Alocasia Wentii'. We are selling large well-established plants growing well.</span><br></p>
+<p>3.5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6837015871648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6837014954144</id>
+    <published>2021-07-21T14:30:32-04:00</published>
+    <updated>2021-07-21T14:30:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasia-lauterbachiana"/>
+    <title>Alocasia Lauterbachiana</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/AlocasiaLauterbachiana_24.99.jpg?v=1626892267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><meta charset="UTF-8"><span data-mce-fragment="1">Alocasias needs to be kept in </span><b data-mce-fragment="1">a warm and humid environment</b><span data-mce-fragment="1"> and is very cold sensitive. Its preferred temperature is between 18-22˚C. Keep away from draughts and air conditioning. The Alocasia Lauterbachiana requires bright indirect sunlight which improves the leaf colour of your plant.</span><br></p>
+<p>3.5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6837014954144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5799437271200</id>
+    <published>2021-07-21T14:28:05-04:00</published>
+    <updated>2021-07-21T14:28:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasis-bambino"/>
+    <title>Alocasia Bambino</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Alocasia_Bambino.jpg?v=1626891968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply stunning foliage, the leaves of the Alocasia amazonica Bambino Arrow are narrow with bright veins. It has a very similar appearance to Alocasia amazonica Polly, but is smaller and is also known as Jewel Alocasia.</p>
+<p>This is a compact Alocasia ideal for table tops and shelves. The leaf blades are typically 15-18cm long and about 5cm wide with a dark purple underside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5799437271200</id>
+      <title>4&quot;Pot</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6808213487776</id>
+    <published>2021-07-07T15:51:20-04:00</published>
+    <updated>2021-07-07T15:51:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/juniper-bonsai"/>
+    <title>Juniper Bonsai with Pot</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/JuniperBonsai_5a1ced4b-7472-49d9-88e2-0b2c0c21e931.jpg?v=1625687870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><b data-mce-fragment="1">Juniper Bonsai</b><span data-mce-fragment="1"> (Juniperus) ... They are evergreen coniferous trees or shrubs, which are very popular for </span><b data-mce-fragment="1">Bonsai</b><span data-mce-fragment="1">. The </span><b data-mce-fragment="1">Juniper Bonsai</b><span data-mce-fragment="1"> trees that can be found in large stores, like Walmart and Home Depot, are often Japanese Garden </span><b data-mce-fragment="1">Junipers</b><span data-mce-fragment="1">, also known as Green Mound </span><b data-mce-fragment="1">Junipers</b><span data-mce-fragment="1"> (Juniperus procumbens nana.)</span></p>
+<p>5"Pot<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6808213487776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6808212996256</id>
+    <published>2021-07-07T15:50:09-04:00</published>
+    <updated>2021-07-07T15:50:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/alocasia"/>
+    <title>Alocasia</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Alocasia_94ce0094-d2b2-4c09-851a-04ed6613f555.jpg?v=1625687826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p>6"Pot<br><meta charset="UTF-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6808212996256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6808210210976</id>
+    <published>2021-07-07T15:45:09-04:00</published>
+    <updated>2021-07-07T15:45:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/anthurium-lovely-hearts"/>
+    <title>Anthurium Lovely Hearts</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/anthuriumlovelyhearts_965ec6d5-1fb8-4d6c-b0f0-02460a79213d.jpg?v=1625687168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><meta charset="UTF-8"><span data-mce-fragment="1">The anthurium plant is grown as a houseplant in cooler areas and as a landscaping plants in USDA zones 10 or higher. Proper care for anthurium is easy to do as long as you provide a few key elements for the plant. Keep reading to learn more about care of anthurium plants.</span><br></p>
+<p><span>6"Pot</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6808210210976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6805859729568</id>
+    <published>2021-07-06T12:52:37-04:00</published>
+    <updated>2021-07-06T12:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/peperomia"/>
+    <title>Peperomia Metallica</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Peperomia_49aa44f3-fe67-40f5-9690-3ca1b30cf711.jpg?v=1626886103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light: Peperomia metallica will do best with bright, indirect light. They can be kept in medium indirect light but be mindful of watering. The lower the light the less frequently your plant will need to be watered.</p>
+<p>Water: Allow your Peperomia metallica to go about halfway dry between watering. Peperomia have shallow roots that can quickly rot if allowed to stay too moist. If you're having a hard time knowing when to water your Peperomia metallica pay attention to your plant, you'll notice the leaves will go slightly limp when it's time to water.</p>
+<p>#PetFriendly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6805859729568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6805859008672</id>
+    <published>2021-07-06T12:51:38-04:00</published>
+    <updated>2021-07-06T12:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/ficus-elastica-ruby"/>
+    <title>Ficus Elastica Ruby</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/FicusElasticaRuby.jpg?v=1625590311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>
+<meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <span data-mce-fragment="1"></span><span style="color: #ff2a00;"><strong>10" Only For Pick-up &amp; Local Delivery</strong></span>
+</h2>
+<p><meta charset="UTF-8"><span>The </span><b>Ficus Elastica Ruby</b><span>, also known as a variegated </span><b>Rubber tree</b><span>, is native to tropical regions of India and Malaysia. Its care is similar to that of the </span><b>Rubber Tree</b><span>, however its unique tri-colored variegation requires brighter light conditions than the Burgundy variety to keep the colors strong and defined.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&quot; Pot</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6805859008672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6805856026784</id>
+    <published>2021-07-06T12:49:33-04:00</published>
+    <updated>2021-07-06T12:49:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/peruvian-cactus"/>
+    <title>Peruvian Cactus</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/peruviancactus.jpg?v=1625590194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>
+<meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <meta charset="UTF-8"> <span data-mce-fragment="1"></span><span style="color: #ff2a00;"><strong>10" Only For Pick-up &amp; Local Delivery</strong></span>
+</h2>
+<p><span>Aka Peruvian Apple Cactus or Queen of the Night</span></p>
+<p><span><meta charset="UTF-8">Native to South America (as the name <em>might</em> suggest), this species of cacti is know for its truly epic height. Its grayish-green to bluish stems have rached over 30′ (10m) in height without any help from us gardeners. However, in intensive cultivation and through using plant supports growers have achieved over 110′ (34m)! No cacti in the wild has ever exceeded 82′ (25m), which makes the screw cactus one of the tallest-growing cacti on the planet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10&quot; Pot</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6805856026784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5628259369120</id>
+    <published>2021-07-06T12:04:21-04:00</published>
+    <updated>2021-07-06T12:04:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/syngonium-cream-allusion"/>
+    <title>Syngonium Cream Allusion</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/SyngoniumCreamAllusion_75d242de-6ccd-4cc5-901d-804946b13254.jpg?v=1625590083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            9.99 - 24.99
+            <a href="https://www.springergarden.com/products/syngonium-cream-allusion">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Syngonium podophyllum 'Cream Allusion' is a compact variety, it shows off light green leaves, edged in darker green, and accented with pink veins. Keep the potting mix moist in summer, allowing the surface to dry out before watering again. Bright light, but no direct sun.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5628259369120</id>
+      <title>3.5&quot; Pot</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5628259369120</id>
+      <title>6&quot; Pot</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5628259369120</id>
+      <title>8&quot; Pot</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6780386148512</id>
+    <published>2021-06-23T14:25:40-04:00</published>
+    <updated>2021-06-23T14:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/banana-plant"/>
+    <title>Canna Lily</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/bananaplant_f751e10d-95c4-4741-8aa2-8a7b578bf2bc.jpg?v=1624473178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Musa is one of two or three genera in the family Musaceae. The genus includes flowering plants producing edible bananas and plantains. Around 70 species of Musa are known, with a broad variety of uses.</span></p>
+<p>8'' Pot<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6780386148512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6777757171872</id>
+    <published>2021-06-22T16:49:59-04:00</published>
+    <updated>2021-06-22T16:49:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/sansevieria-cylindrica-spaghetti-velvet-touchz"/>
+    <title>Sansevieria Cylindrica Spaghetti Velvet Touchz</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/SansevieriaCylindricaSpaghettiVelvetTouchz.jpg?v=1624395011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span>6'' Pot<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6777757171872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6777753895072</id>
+    <published>2021-06-22T16:46:54-04:00</published>
+    <updated>2021-06-22T16:46:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/ctenanthe-setosa-grey-star"/>
+    <title>Ctenanthe Setosa Grey Star</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/CtenantheSetosaGreyStar.jpg?v=1624394803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><meta charset="UTF-8"><meta charset="UTF-8"><meta charset="UTF-8">
+<p><meta charset="UTF-8"><span></span><span data-mce-fragment="1">6" Pot</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6777753895072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6750513070240</id>
+    <published>2021-06-08T16:59:25-04:00</published>
+    <updated>2021-06-08T16:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/string-of-heart-variegated"/>
+    <title>String of Heart Variegated</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/StringofHeartsvariagted.jpg?v=1623186020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://www.springergarden.com/products/string-of-heart-variegated">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ceropegia is a genus of plants within the family Apocynaceae, native to Africa, southern Asia, and Australia. It was named by Carl Linnaeus, who first described this genus in volume 1 of his Species plantarum, which appeared in 1753. Linnaeus thought that the flowers looked like a fountain of wax.</span></p>
+<p>3.5"Pot<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6750513070240</id>
+      <title>3.5&quot;Pot</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6750513070240</id>
+      <title>6&quot;Pot</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6731349328032</id>
+    <published>2021-05-31T15:41:38-04:00</published>
+    <updated>2021-05-31T15:41:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/sweetheart-vine"/>
+    <title>Philodendron Hederaceum Heartleaf</title>
+    <s:type>Houseplants</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/SweetheartVine.jpg?v=1626892158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Houseplants<br>
+        <strong>Price: </strong>
+            19.99 - 39.99
+            <a href="https://www.springergarden.com/products/sweetheart-vine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweetheart Vine, H.B. Philodendron Cordatum, aka <span data-mce-fragment="1">Heart Leaf Philodendron</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Easy Care</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6731349328032</id>
+      <title>3.5&quot;Pot</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6731349328032</id>
+      <title>8&quot;Pot</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

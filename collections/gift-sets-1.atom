@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/gift-sets-1.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-05-04T16:34:29-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/5935277670560</id>
+    <published>2021-05-04T16:34:29-04:00</published>
+    <updated>2021-05-04T16:34:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-24"/>
+    <title>Planter + Plant(s) No.24</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/9_7dd9c24e-4a13-4ae4-83e5-5f93286e8890.jpg?v=1608482704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            19.99 - 55.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-24">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span><strong><em><meta charset="UTF-8">You will get <span style="color: #ff2a00;" mce-data-marked="1">Four </span><span style="color: #ff2a00;" mce-data-marked="1"><span color="#000000" style="color: #000000;">in total</span></span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7.5cmL, 7.5cmW, 9.5cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935277670560</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935277670560</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5678509359264</id>
+    <published>2021-04-07T17:50:01-04:00</published>
+    <updated>2021-04-07T17:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-10"/>
+    <title>Planter + Plant(s) No.12</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/giftset10.jpg?v=1600892570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            19.99 - 69.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-10">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Six <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8.5cmL, 8.5cmW, 6.0cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678509359264</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678509359264</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5282328543392</id>
+    <published>2021-03-27T11:35:02-04:00</published>
+    <updated>2021-03-27T11:35:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-4"/>
+    <title>Planter + Plant(s) No.11</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2ac9c03cc803aea6af48d8fd48e8b04_dec54aac-0689-457f-a768-0a3a0b40035a.jpg?v=1600121442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            15.99 - 149.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>20cmL, 20cmW, 8.5cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282328543392</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282328543392</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935277441184</id>
+    <published>2020-12-20T11:43:54-05:00</published>
+    <updated>2020-12-20T11:43:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-23"/>
+    <title>Planter + Plant(s) No.23</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4_99bf5615-d5de-45ad-ab9e-b064d96c4998.jpg?v=1608482644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            29.99 - 82.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-23">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span><strong><em><meta charset="UTF-8">You will get <span style="color: #ff2a00;">Six </span><span style="color: #ff2a00;" mce-data-marked="1"><span style="color: #000000;" color="#000000">in total</span></span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7.0cmL, 7.0cmW,<span> 7</span><span data-mce-fragment="1">.0</span>cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935277441184</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935277441184</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935276851360</id>
+    <published>2020-12-20T11:42:27-05:00</published>
+    <updated>2020-12-20T11:42:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-22"/>
+    <title>Planter + Plant(s) No.22</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/5_de307d63-1f56-4faf-895d-2f4cc6b28bc0.jpg?v=1608482568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            19.99 - 71.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-22">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span><strong><em><meta charset="UTF-8">You will get <span style="color: #ff2a00;" mce-data-marked="1">Six </span><span style="color: #ff2a00;" mce-data-marked="1"><span color="#000000" style="color: #000000;">in total</span></span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>7.0cmL, 7.0cmW,<span> </span><span mce-data-marked="1" data-mce-fragment="1">4.5</span>cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276851360</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">71.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276851360</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935276425376</id>
+    <published>2020-12-20T11:40:56-05:00</published>
+    <updated>2020-12-20T11:40:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-21"/>
+    <title>Planter + Plant(s) No.21</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/3_2b97892d-12a8-4927-854f-48da0212d1fa.jpg?v=1608482489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            17.99 - 47.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-21">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Three <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>Left to Right:<br>
+</li>
+<li>7.0cmL, <span data-mce-fragment="1">7.0</span>cmW, <span data-mce-fragment="1">7.0</span>cmH</li>
+<li>8.5cmL,8.5cmW,<span> </span><span data-mce-fragment="1">5.5</span>cmH</li>
+<li>8.5cmL,8.5cmW,<span> </span><span data-mce-fragment="1">8.0</span>cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276425376</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276425376</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935276163232</id>
+    <published>2020-12-20T11:40:18-05:00</published>
+    <updated>2020-12-20T11:40:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-20"/>
+    <title>Planter + Plant(s) No.20</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2.jpg?v=1608482441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            21.99 - 46.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-20">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Three <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8.5cmL, 8.5cmW, 9.0cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276163232</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935276163232</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935274229920</id>
+    <published>2020-12-20T11:32:22-05:00</published>
+    <updated>2020-12-20T11:32:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-17"/>
+    <title>Planter + Plant(s) No.17</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/6_4cfe5ab1-bdbb-478d-be93-c765ce2372e4.jpg?v=1608481951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            15.99 - 45.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-17">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Three <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8.5cmL, 8.5cmW, 6.3cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935274229920</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935274229920</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935273672864</id>
+    <published>2020-12-20T11:30:40-05:00</published>
+    <updated>2020-12-20T11:30:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-15"/>
+    <title>Planter + Plant(s) No.15</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/11_6f315be3-7409-49d4-b23d-ca46e8d79a19.jpg?v=1608481862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            9.99 - 27.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-15">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Two <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>5.8cmL, 5.8cmW, 6.5cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935273672864</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935273672864</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5935263187104</id>
+    <published>2020-12-20T11:23:53-05:00</published>
+    <updated>2020-12-20T11:23:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-14"/>
+    <title>Planter + Plant(s) No.14</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/10_1f69489f-4677-46b6-8d10-cc938aa0d9a1.jpg?v=1608481792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            5.99 - 20.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-14">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get</span> Two <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>6.0cmL, 6.0cmW, 6.5cmH / 5.0cmL,<span> 5</span>.0cmW, 6.5cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935263187104</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5935263187104</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5678517158048</id>
+    <published>2020-09-23T19:01:22-04:00</published>
+    <updated>2020-09-23T19:01:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-11"/>
+    <title>Planter + Plant(s) No.13</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/giftset11.jpg?v=1600892624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            24.99 - 75.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-11">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><span style="color: #ff2a00;"><strong><em><meta charset="UTF-8">
+<span style="color: #000000;">You will get </span>Six <span color="#000000" style="color: #000000;">in total</span></em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole</span></li>
+</ul>
+<ul></ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8.5cmL, 8.5cmW, 6.0cmH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678517158048</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678517158048</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5678553464992</id>
+    <published>2020-09-23T16:38:54-04:00</published>
+    <updated>2020-09-23T16:38:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-12"/>
+    <title>Planter + Plant(s) No.10</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/38e9b4f2880f21e8f8fb873cd7a4d91.jpg?v=1600893543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            99.99 - 139.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-12">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match </em></strong></span></p>
+<p><em><strong>You will get <span style="color: #ff2a00;" mce-data-marked="1">Four </span><span style="color: #ff2a00;" mce-data-marked="1"><font color="#000000">in total</font></span></strong></em></p>
+<p>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</p>
+<ul>
+<li><span mce-data-marked="1">Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>No.1: 8.5cm Height, 7cm diameter<br>
+</li>
+<li>No.2: 7.5<span data-mce-fragment="1">cm Height, 9cm diameter</span>
+</li>
+<li>No.3: 8<span data-mce-fragment="1">cm Height,<span> 10</span>cm diameter</span>
+</li>
+<li>No.4:<span> 11</span><span data-mce-fragment="1">cm Height,<span> 8</span>cm diameter</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678553464992</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678553464992</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5678536884384</id>
+    <published>2020-09-23T16:38:29-04:00</published>
+    <updated>2020-09-23T16:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/copy-of-planter-plants-no-9"/>
+    <title>Planter + Plant(s) No.9</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4444.jpg?v=1600893230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            129.99 - 165.99
+            <a href="https://www.springergarden.com/products/copy-of-planter-plants-no-9">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match </em></strong></span></p>
+<p><em><strong>You will get <span style="color: #ff2a00;" mce-data-marked="1">Five</span></strong></em></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span mce-data-marked="1">Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>No.1: 7.5cm Height, 9cm diameter</li>
+<li>No.2: 10.5cm Height, 8cm diameter</li>
+<li>No.3: 8<span data-mce-fragment="1">cm Height,<span> 9</span>cm diameter</span>
+</li>
+<li>No.4:<span> 8.5</span><span data-mce-fragment="1">cm Height,<span> 7</span>cm diameter</span>
+</li>
+<li>No.5:<span> 8.5</span><span data-mce-fragment="1">cm Height,<span> 8</span>cm diameter</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678536884384</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">165.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5678536884384</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5282254913696</id>
+    <published>2020-09-23T16:19:41-04:00</published>
+    <updated>2020-09-23T16:19:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants"/>
+    <title>Planter + Plant(s) No.1</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/2_9ed79040-1599-4993-826a-538a32afe68d.jpg?v=1621434569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            6.99 - 15.99
+            <a href="https://www.springergarden.com/products/planter-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match</em></strong></span></p>
+<p><strong><em>If you want the different pot, please <a href="https://www.springergarden.com/pages/contact-us">contact us </a></em></strong></p>
+<p><strong><em>Number: 1</em></strong></p>
+<ul>
+<li>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li><span>7cmL, 7cmW, 7cmH</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282254913696</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282254913696</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5285312561312</id>
+    <published>2020-09-18T14:20:29-04:00</published>
+    <updated>2020-09-18T14:20:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-9"/>
+    <title>Planter + Plant(s) No.8</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/22_66a9b874-49a0-448d-b6fb-ad98db44efc5.jpg?v=1600453157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            99.99 - 139.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-9">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match </em></strong></span></p>
+<p><em><strong>You will get <span style="color: #ff2a00;" mce-data-marked="1">Four</span></strong></em></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span mce-data-marked="1">Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>No.1: 7<span data-mce-fragment="1">cm Height, 10cm diameter</span>
+</li>
+<li>No.2: 11<span data-mce-fragment="1">cm Height,<span> 8</span>cm diameter</span>
+</li>
+<li>No.3:<span> 8.5</span><span data-mce-fragment="1">cm Height,<span> 9</span>cm diameter</span>
+</li>
+<li>No.4:<span> 9.5</span><span data-mce-fragment="1">cm Height,<span> 6.5</span>cm diameter</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5285312561312</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5285312561312</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5282628337824</id>
+    <published>2020-09-18T14:17:54-04:00</published>
+    <updated>2020-09-18T14:17:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-5"/>
+    <title>Planter + Plant(s) No.7</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/23_8b2c62b0-1075-4273-999f-dde00dc0ea95.jpg?v=1600453234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            99.99 - 139.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match </em></strong></span></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>No.1: 10.5cm Height, 8cm diameter<br>
+</li>
+<li>No.2: 10<span data-mce-fragment="1">cm Height, 6.5cm diameter</span>
+</li>
+<li>No.3: 7.<span data-mce-fragment="1">5cm Height,<span> 7.5</span>cm diameter</span>
+</li>
+<li>No.4:<span> 8</span><span data-mce-fragment="1">cm Height,<span> 8.5</span>cm diameter</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282628337824</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5282628337824</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5283128311968</id>
+    <published>2020-08-04T17:39:51-04:00</published>
+    <updated>2020-08-04T17:39:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/planter-plants-no-6"/>
+    <title>Planter + Plant(s) No.6</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/824983877_bebd78af-dc77-4a6c-ad42-47d3dc300747.jpg?v=1600120010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            16.99 - 59.99
+            <a href="https://www.springergarden.com/products/planter-plants-no-6">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><strong><em>You will get the similar set with the exact pot shown on the photo, perfect gift for your love</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We cannot guarantee the plants would look exactly the same, we will try our best to make it &amp; plant the best quality of plants to match </em></strong></span></p>
+<p><meta charset="UTF-8"><em><strong>You will get <span style="color: #ff2a00;" mce-data-marked="1">Four </span><span style="color: #ff2a00;" mce-data-marked="1"><span color="#000000" style="color: #000000;">in total</span></span></strong></em></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Ceramic.</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li><span>9.0cmL, 9.0cmW, 9.0cmH</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5283128311968</id>
+      <title>With Plant(s)</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5283128311968</id>
+      <title>Without Plant(s)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5399948001440</id>
+    <published>2020-07-17T10:34:49-04:00</published>
+    <updated>2020-07-17T10:34:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/indoor-plant"/>
+    <title>Indoor Plant Set</title>
+    <s:type>Potted Sets</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/mmexport1599516309461.jpg?v=1610226014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Potted Sets<br>
+        <strong>Price: </strong>
+            25.99 - 39.99
+            <a href="https://www.springergarden.com/products/indoor-plant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>Details</em></strong></p>
+<p><span style="color: #ff2a00;"><strong><em>We will offer the same plant in the photo if we have the plant in stock. Otherwise, it would be a random plant with the selected pot. </em></strong></span></p>
+<p><strong><em><span>Leave us the message in FB, Instagram or checkout for special instruction</span></em></strong></p>
+<ul>
+<li><span>Due to the handcrafted nature of this item, expect slight variation in the appearance of each unique piece.</span></li>
+<li><span>Resin。</span></li>
+<li>Imported.</li>
+<li><span>With drainage hole.</span></li>
+</ul>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li><span>9.0cmL, 9.0cmW, 9.0cmH</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5399948001440</id>
+      <title>No.1</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5399948001440</id>
+      <title>No.2</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

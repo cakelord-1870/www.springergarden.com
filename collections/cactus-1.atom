@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/cactus-1.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-06-03T17:12:16-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6742119514272</id>
+    <published>2021-06-03T17:12:16-04:00</published>
+    <updated>2021-06-03T17:12:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/so-cute-cactus"/>
+    <title>So Cute Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/cactus.jpg?v=1622754900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6742119514272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5977713508512</id>
+    <published>2021-01-14T16:50:35-05:00</published>
+    <updated>2021-01-14T16:50:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-wholesale-5-8pot"/>
+    <title>Cactus Wholesale Bundle</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>Springer Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/12_dfe84df4-2739-4d64-8326-ebe84577ed13.jpg?v=1612735967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springer Garden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            49.99 - 149.99
+            <a href="https://www.springergarden.com/products/cactus-wholesale-5-8pot">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Size: </strong></em>3~3.5"</p>
+<p>Need a pick-me-up during the winter or when it is cold outside? You can enjoy year-round sunshine with our premium cactus wholesale bundle of plants. Order 5, 10, 20, or 30 per pack.</p>
+<p>You don't have to feel the winter blues when you add these hot-weather desert plants to your living or working space.</p>
+<p><em>*The cactus plants you receive in each bundle represent a <span style="color: #ff2a00;">random</span> sampling of plants. Therefore, the plants you get will be different than what you see in the photo. While the quality is the same, we cannot guarantee that you will receive the same exact plants.</em></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5977713508512</id>
+      <title>5 Pack</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5977713508512</id>
+      <title>10 Pack</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5977713508512</id>
+      <title>20 Pack</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5977713508512</id>
+      <title>30 Pack</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5850145587360</id>
+    <published>2020-11-14T17:51:43-05:00</published>
+    <updated>2020-11-14T17:51:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/mammillaria-herrerae"/>
+    <title>Mammillaria Herrerae</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Mammillariaherrerae.jpg?v=1612736168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5850145587360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800869822624</id>
+    <published>2020-10-25T10:37:55-04:00</published>
+    <updated>2020-10-25T10:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-saguaro"/>
+    <title>Saguaro Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/SaguaroCactus.jpg?v=1612736153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800869822624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800869036192</id>
+    <published>2020-10-25T10:37:13-04:00</published>
+    <updated>2020-10-25T10:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-rat-tail"/>
+    <title>Rat Tail Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/RatTailCactus.jpg?v=1612736122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800869036192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800868151456</id>
+    <published>2020-10-25T10:35:54-04:00</published>
+    <updated>2020-10-25T10:35:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-parodia"/>
+    <title>Parodia Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Parodia_b02bdbab-3fe9-4288-b32f-a34ebad53301.jpg?v=1612736079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800868151456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800866644128</id>
+    <published>2020-10-25T10:32:44-04:00</published>
+    <updated>2020-10-25T10:32:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/ladyfinger-cactus"/>
+    <title>Ladyfinger Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/LadyfingerCactus_fbb6836a-57f1-4993-85b4-6255bae3ee76.jpg?v=1612735632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800866644128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800865923232</id>
+    <published>2020-10-25T10:31:40-04:00</published>
+    <updated>2020-10-25T10:31:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/fairy-castle-cactus"/>
+    <title>Fairy Castle Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/FairyCastleCactus.jpg?v=1612736003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Friendly</s:tag>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800865923232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800863596704</id>
+    <published>2020-10-25T10:27:48-04:00</published>
+    <updated>2020-10-25T10:27:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-1"/>
+    <title>Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/Cactus_23fb9e98-b559-4f31-bd5f-c39e05e4663d.jpg?v=1612735796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800863596704</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800858157216</id>
+    <published>2020-10-25T10:22:48-04:00</published>
+    <updated>2020-10-25T10:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/bunny-ear-cactus"/>
+    <title>Bunny Ear Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/BUNNYEARCACTUS_989a849c-b183-4d7a-98c3-5137e018d855.jpg?v=1612735763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800858157216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800854945952</id>
+    <published>2020-10-25T10:21:06-04:00</published>
+    <updated>2020-10-25T10:21:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-blue-columnar"/>
+    <title>Blue Columnar Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/BlueColumnarCactus.jpg?v=1612735725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800854945952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/5800852717728</id>
+    <published>2020-10-25T10:21:05-04:00</published>
+    <updated>2020-10-25T10:21:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/cactus-barrel"/>
+    <title>Barrel Cactus</title>
+    <s:type>Cactus</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/BarrelCactus.jpg?v=1612735689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Cactus<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-wrapper above"><strong><em>Dimension:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">The plant is about 5-6 cm or 2-2/5 inch in diameter</div>
+<div class="product-description-wrapper above"><strong><em></em></strong></div>
+<div class="product-description-wrapper above"><strong><em>Care Instructions:</em></strong></div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Water your succulents or cactus for 7-10 days once;</div>
+<div class="product-description-wrapper above"></div>
+<div class="product-description-wrapper above">-Give them as much sunlight as possible.</div>
+<div class="product-description-wrapper above">
+<p> </p>
+<p>Want the<span> </span><span>pots</span>? Check our<span> </span><span>planter section </span><a href="https://www.springergarden.com/collections/all-pots">https://www.springergarden.com/collections/all-pots</a></p>
+<p>Want us to<span> </span><span>put the succulents into the pots</span>? Purchase here <a href="https://www.springergarden.com/collections/tools/products/handcraft-fee">https://www.springergarden.com/collections/tools/products/handcraft-fee</a></p>
+<p>Or you can purchase the<span> </span><span>soil</span><span> </span>yourself to DIY ❤ <a href="https://www.springergarden.com/collections/tools">https://www.springergarden.com/collections/tools</a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/5800852717728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

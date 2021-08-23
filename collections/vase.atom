@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.springergarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.springergarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.springergarden.com/collections/vase.atom"/>
+  <title>Springer Garden</title>
+  <updated>2021-05-06T15:55:42-04:00</updated>
+  <author>
+    <name>Springer Garden</name>
+  </author>
+  <entry>
+    <id>https://www.springergarden.com/products/6685138550944</id>
+    <published>2021-05-06T15:55:42-04:00</published>
+    <updated>2021-05-06T15:55:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/vase-with-buddha-totem"/>
+    <title>Vase with Leave Totem</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/1_6f0ea134-222f-4b09-ab12-511c86822c3c.jpg?v=1620330955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>8"H, 3" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685138550944</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685132456096</id>
+    <published>2021-05-06T15:53:48-04:00</published>
+    <updated>2021-05-06T15:53:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/pink-dimond"/>
+    <title>Pink Dimond</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/3_01b042d1-5711-4587-9438-cc0bfbab21cd.jpg?v=1620330866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9"H, 2.5" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685132456096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685131112608</id>
+    <published>2021-05-06T15:53:21-04:00</published>
+    <updated>2021-05-06T15:53:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glass-vase-no-6"/>
+    <title>Glass Vase No.6</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4_bc56eb15-5509-4767-94fd-923e4fee72c5.jpg?v=1620330808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9.75"H, 4.75" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685131112608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685129670816</id>
+    <published>2021-05-06T15:52:51-04:00</published>
+    <updated>2021-05-06T15:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glass-vase-no-5"/>
+    <title>Glass Vase No.5</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/4_635390dd-3dcd-4d09-83cf-6a0b7097997c.jpg?v=1620331198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9.75"H, 4.75" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685129670816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685122724000</id>
+    <published>2021-05-06T15:50:16-04:00</published>
+    <updated>2021-05-06T15:50:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glass-vase-no-4"/>
+    <title>Glass Vase No.4</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/5_9f5cc052-a013-4519-999b-ff15f9837f4d.jpg?v=1620330632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9.75"H, 4.75" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685122724000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685110042784</id>
+    <published>2021-05-06T15:45:54-04:00</published>
+    <updated>2021-05-06T15:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glass-vase-no-3"/>
+    <title>Glass Vase No.3</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/glassvase_7cfe41f0-7ea4-4d42-ab06-a9255ff9cb41.jpg?v=1620330607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9"H, 2" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685110042784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6685103456416</id>
+    <published>2021-05-06T15:43:43-04:00</published>
+    <updated>2021-05-06T15:43:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/glass-vase-no-2"/>
+    <title>Glass Vase No.1</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/galssvasefordriedflowers_950749ba-8170-4ba3-98da-1514ffc98dbd.jpg?v=1620330260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9"H, 2" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6685103456416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.springergarden.com/products/6650173030560</id>
+    <published>2021-04-18T10:26:15-04:00</published>
+    <updated>2021-04-18T10:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.springergarden.com/products/vase-for-flowers"/>
+    <title>Glass Vase No.2</title>
+    <s:type>Vase</s:type>
+    <s:vendor>SpringerGarden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6691/8457/products/glassvase2.jpg?v=1620330277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpringerGarden<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect vase for fresh cuttings &amp; dried flowers.</p>
+<p><em><strong>Dimensions</strong></em></p>
+<ul>
+<li>9"H, 2" diameter</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.springergarden.com/products/6650173030560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
